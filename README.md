@@ -9,7 +9,7 @@ A notice Board with Add and Update for AdminPage and view via a webLink for Supp
 Before Trying to Run, make sure Mongo is running at default port.
 
 > The overriding design goal for MAD is
-> formatting syntax is to make it as readable
+> to provide a dashboard for
 > making a difference.
 
 ### Tech
